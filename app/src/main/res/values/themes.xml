@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Counter" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/secondary_green</item>
+        <item name="colorPrimaryVariant">@color/antique_ruby</item>
+    </style>
+
+    <style name="Theme.Counter" parent="Base.Theme.Counter" />
+</resources>
